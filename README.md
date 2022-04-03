@@ -1,2 +1,2 @@
-# shedlock-with-spring-example
-Shedlock implementation with Spring example
+# shedlock-spring-demo
+Shedlock implementation example using Spring and H2 db.

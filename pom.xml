@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kulsin</groupId>
-	<artifactId>shedlock-with-spring-example</artifactId>
+	<artifactId>shedlock-spring-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>shedlock-with-spring-example</name>
+	<name>shedlock-spring-demo</name>
 	<description>Demo project for Shedlock</description>
 	<properties>
 		<java.version>17</java.version>
