@@ -9,13 +9,12 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kulsin</groupId>
-	<artifactId>shedlock-spring-demo</artifactId>
+	<artifactId>shedlock-spring-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>shedlock-spring-demo</name>
-	<description>Demo project for Shedlock</description>
+	<name>Shedlock Spring Example</name>
+	<description>Shedlock implementation using Spring and H2 db</description>
 	<properties>
 		<java.version>17</java.version>
-		<lombok.version>1.18.22</lombok.version>
 		<shedlock.version>4.33.0</shedlock.version>
 	</properties>
 	<dependencies>
